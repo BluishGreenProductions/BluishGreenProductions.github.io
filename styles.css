@@ -20,7 +20,7 @@ body {
 }
 
 .logo {
-  width: 120px;
+  width: 240px;
   margin-bottom: 20px;
 }
 
@@ -64,7 +64,7 @@ body {
 }
 
 .button:hover {
-  background: #145ca1;
+  background: linear-gradient(to right, #358ee7, #2a80d1);
   transform: translateY(-3px);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
@@ -79,7 +79,8 @@ body {
 }
 
 .contact:hover {
-  background: #009b3a;
+  background: linear-gradient(to right, #00e06b, #00c65a);
   transform: translateY(-3px);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
+
